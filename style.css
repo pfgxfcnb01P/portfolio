@@ -1,0 +1,99 @@
+body {
+background-color: #C5FB79;
+}
+
+header {
+   background-color: #799EFB;
+ border-radius: 20px ;
+}
+nav {
+    border-top: 5px solid rgb(233, 105, 105);
+    border-bottom: 5px solid rgb(233, 105, 105);
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+header h1 {
+    font-size: 50px;
+    text-align: center;
+} 
+.htd {
+    text-decoration: none;
+    font-size:30px ;
+    color: black;
+    background-image: linear-gradient( lightgreen,white,lightblue);
+    border-radius: 10px;
+}
+main h3 {
+    font-size: 25px;
+    background-color: #F66D6D;
+    width: 50%;
+    padding: 20px;
+    border-radius: 30px;
+}
+.oshii {
+    display: flex;
+    flex-direction: column;
+    background-color: #FBF185;
+    border-radius: 29px;
+    padding: 20px;
+}
+
+.text-kart{
+    display: flex;
+    justify-content: space-around;
+}
+.yletau:hover{
+    transform: scale(1.5) translateX(-200px);
+    transition: all 2s linear;
+}
+ .mee {
+    margin-top: 30px;
+    width: 1000px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.obo {
+    background-color: #F66D6D;
+     width: 10%;
+      border-radius: 10px;
+}
+.obo5 {
+     background-color: #F66D6D;
+     width: 5%;
+      border-radius: 10px;
+}
+.oboh {
+         background-color: #F66D6D;
+     width: 5%;
+      border-radius: 10px;
+}
+.obot {
+         background-color: #F66D6D;
+     width: 5%;
+      border-radius: 10px;
+}
+.d {
+    background-color: #F66D6D;
+     width: 60%;
+      border-radius: 10px;
+}
+.f {
+    background-color: #F66D6D;
+     width: 20%;
+      border-radius: 10px;
+}
+a {
+    background-image: linear-gradient(red, white,green);
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.me {
+    border-radius: 10px;
+}
